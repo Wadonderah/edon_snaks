@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440202287091",
+    "project_id": "edon-snaks",
+    "storage_bucket": "edon-snaks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440202287091:android:e8d7db365a86bfcd90a486",
+        "android_client_info": {
+          "package_name": "com.example.edon_snaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtl2ZGXoYCH43jh0ObqOK2HllxBub23M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
